@@ -85,7 +85,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   - User Profiles and Leaderboards: Profiles showcasing user achievements and leaderboards to highlight top performers.
 
 
-#### <a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a>
+#### <a href="https://anushkatyagi19.github.io/Weather-App/">Weather App</a>
   <span>
     
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -97,7 +97,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   - Location-Based Services: Allows users to search for weather information by city or use geolocation to get weather data for their current location.
 
 
-#### <a href="https://abhinandandaksh.github.io/JasStoreProject/">Jas Store</a>
+#### <a href="https://anushkatyagi19.github.io/JasStore/">Jas Store</a>
   <span>
     
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
