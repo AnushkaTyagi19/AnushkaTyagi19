@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=AnushkaTyagi19&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://portfolio-jade-two-40.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNrM3I1YnAwMXR0YmYxZmE5cXc5YnRra3ExMDZkNmJiN2ltNmFlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.gif" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
 <div align="center">
