@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi👋, I'm Abhinandan</h1>
+<h1 align="center">Hi👋, I'm Anushka Tyagi</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhinandanDaksh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=AnushkaTyagi19&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://portfolio-jade-two-40.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
@@ -31,21 +31,21 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
  <summary>
     <h4> 
-      <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume.jpg" width="37" /> 
+      <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/Abhinandan_Resume.jpg" width="37" /> 
     Resume
     </h4>
 </summary>
 
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/giphy.gif" width="29"/> Academics</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/giphy.gif" width="29"/> Academics</h4></summary>
   <h3>R D Engineering College 2024</h3>
   <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-7.4-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/exprience.gif" width="29"/> Experience</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/exprience.gif" width="29"/> Experience</h4></summary>
    <h4>Intern</h4>ICT Academy
    <br>
     - Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.
@@ -55,7 +55,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -71,7 +71,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/project(1).gif" width="29"/> Projects</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/project(1).gif" width="29"/> Projects</h4></summary>
 
   #### <a href="">VediCode</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> 
@@ -108,7 +108,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/> Stats</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/statistics.gif" width="29"/> Stats</h4></summary>
       <div align="center">
         
   ![](https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
@@ -121,7 +121,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/contact.gif" width="29"/> Contact Me</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/contact.gif" width="29"/> Contact Me</h4></summary>
   <p align="center">
     <a href="mailto:abhinandandaksh@gmail.com">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Portfolio" style="height:100px">
