@@ -123,13 +123,13 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 <details>
   <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/contact.gif" width="29"/> Contact Me</h4></summary>
   <p align="center">
-    <a href="mailto:abhinandandaksh@gmail.com">
+    <a href="mailto:tyagianshka904@gmail.com.com">
     <img src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/gmail.gif" alt="Portfolio" style="height:100px">
     </a>
-    <a href="https://www.instagram.com/_abhinandan_daksh_/">
+    <a href="https://www.instagram.com/_anushka__tyagi/">
     <img src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/insta.gif" alt="Portfolio" style="height:100px">
     </a>
-    <a href="https://www.linkedin.com/in/abhinandan-daksh-788a9a243/">
+    <a href="https://www.linkedin.com/in/anushka-tyagi-939150255/">
     <img src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/LINKEDIN.gif" alt="Portfolio" style="height:100px">
     </a>
   </p>
