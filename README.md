@@ -31,7 +31,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
  <summary>
     <h4> 
-      <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/Abhinandan_Resume.jpg" width="37" /> 
+      <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/Anushka_Resume_page-0001.jpg" width="37" /> 
     Resume
     </h4>
 </summary>
