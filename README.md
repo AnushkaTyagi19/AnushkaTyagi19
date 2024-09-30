@@ -29,12 +29,11 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
 
- <summary>
-    <h4> 
-      <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/Anushka_Resume_page-0001.jpg" width="37" /> 
-    Resume
-    </h4>
-</summary>
+ ## Resume:
+ <a href="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/Anushka_Resume_page-0001.jpg">
+  <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/Anushka_Resume_page-0001.jpg" width="51" />
+</a>
+   
 
 
 ## Academics 👨🏻‍🎓: 
@@ -44,22 +43,12 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
 
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/giphy.gif" width="29"/> Academics</h4></summary>
-  <h3>R D Engineering College 2024</h3>
-  <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-7.4-EFEEE9?style=for-the-badge"></span>
- </details>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/AnushkaTyagi19/AnushkaTyagi19/blob/main/icons/exprience.gif" width="29"/> Experience</h4></summary>
-   <h4>Intern</h4>ICT Academy
-   <br>
-    - Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.
-   <br>
-    - Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.
- </details>
+ ## Experience 🏫: 
+<p>Intern at ICT Academy</p>
+<ul>
+  <li>Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.</li>
+  <li>Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.</li>
+</ul>
 
 
 <details>
